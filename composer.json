@@ -1,0 +1,17 @@
+{
+    "name": "learning/team-vs",
+    "description": "VS Team - Team Showcase WP Plugin developed with creative & modern web trends to provide the best. Its design with fully responsive layout that will fit any device. Developed by SAGOR RANA.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "SAGOR RANA",
+            "email": "sagorranait@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"vcore\\": "./vcore"}
+    }
+}
